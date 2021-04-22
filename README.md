@@ -1,1 +1,1 @@
-# ritesh382.github.io
+# thirst2learncoding.github.io
