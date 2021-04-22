@@ -1,0 +1,24 @@
+input{
+    outline: none;
+    border: none;
+    width: auto;
+    padding: 5px 0px;
+    margin: 2px;
+    text-align: center;
+}
+button{
+    outline: none;
+    border: none;
+    padding: 10px 12px;
+}
+.check_btn{
+    background-color: rgb(0, 140, 255);
+    color: white;
+}
+.answer_btn{
+    background-color: rgb(253, 85, 24);
+    color: white;
+}
+.answer{
+    display: none;
+}
