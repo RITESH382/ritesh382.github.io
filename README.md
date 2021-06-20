@@ -1,2 +1,1 @@
-# thirst2learncoding.github.io
-## Learn Python
+#Learn Python["https://thirst2learncoding.github.io/website/"]
